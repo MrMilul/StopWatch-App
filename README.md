@@ -6,7 +6,11 @@
 # Initialization:
 
 # first:
-npx create-react-app --template typescript 
+npx create-react-app my-app --template typescript
+
+# or
+
+yarn create react-app my-app --template typescript
 
 # second
 
